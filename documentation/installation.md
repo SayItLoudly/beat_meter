@@ -15,7 +15,7 @@ Follow these steps to set up and run the Beats Meter project on your local machi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/your-username/Beats-meter.git
     cd Beats-meter
     ```
 
